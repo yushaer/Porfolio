@@ -1,0 +1,45 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+
+}
+
+
+
+* {
+    box-sizing: border-box;
+
+}
+
+.scroll::-webkit-scrollbar {
+    width: 12px;
+
+}
+
+.scroll::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#87e0fd+0,53cbf1+40,05abe0+100;Blue+3D+%23+16 */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
+    background: #f1e767;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #f1e767 0%, #feb645 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f1e767 0%, #feb645 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f1e767 0%, #feb645 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1e767', endColorstr='#feb645', GradientType=0);
+    /* IE6-9 */
+
+    /* outline: 1px solid rgb(0, 128, 255); */
+    border-radius: 10px;
+    /* border: 3px solid rgb(77, 184, 250); */
+
+    background-clip: content-box;
+
+}

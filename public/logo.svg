@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.44 239">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#090606;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</style>
+    </defs>
+    <title>Yushae</title>
+    <polyline class="cls-1" points="2.5 2.5 71.94 126.5 71.94 236.5" />
+    <path class="cls-1" d="M228.48,273.94,290,168h89" transform="translate(-145.06 -165.5)" />
+    <polyline class="cls-1" points="233.94 126.5 174.94 126.5 233.94 236.5" />
+    <path class="cls-1" d="M379,292a62,62,0,0,0,0-124" transform="translate(-145.06 -165.5)" />
+    <path class="cls-1" d="M296.5,181.1H377a48.9,48.9,0,0,1,0,97.8H318" transform="translate(-145.06 -165.5)" />
+    <line class="cls-1" x1="74.3" y1="108.44" x2="13.15" y2="2.5" />
+</svg>
